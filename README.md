@@ -25,6 +25,7 @@ I am organizing my progress level-wise as I learn new concepts.
 css-practice/
 │
 ├── level1/
+├── level2/
 └── (more levels will be added as I progress)
 
 ---
