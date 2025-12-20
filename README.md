@@ -17,6 +17,21 @@ I am organizing my progress level-wise as I learn new concepts.
   - Class selector
   - Group selector
   - Descendant selector
+### ✅ Level 2 – Practice Set 1
+- Color system
+  - RGB
+  - HEX-COLOR-MODEL
+- HEIGHT and width
+- Background image
+  - background image property
+  - visibility
+### ✅ Level 3 – Practice Set 3
+- TEXT PROPERTIES
+  - text-alignment,text-decoration,text-transformation
+- LINE HEIGHT
+- FONT PROPERTIES
+  - font-size,font-weight,font-style,font-family,icons-using_fonts
+
 
 ---
 
