@@ -1,0 +1,29 @@
+#boxmodel {
+            height: 200px;
+            width: 200px;
+            background-color: aquamarine;
+        }
+        #button{
+            height: 70px;
+            width: 70px;
+            padding: 10px 15px 10px 15px;
+            background-color: blueviolet;
+            margin: 100px;
+            border: 2px dotted red;
+            border-radius: 36px;
+        }
+        .box{
+            height: 100px;
+            width: 100px;
+            margin: 5px;
+            padding: 5px;
+            border: 2px dotted red;
+            background-color: blue;
+            
+        }
+        #box1{
+            box-sizing: content-box;
+        }
+        #box2{
+            box-sizing: border-box;
+        }

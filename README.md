@@ -31,6 +31,11 @@ I am organizing my progress level-wise as I learn new concepts.
 - LINE HEIGHT
 - FONT PROPERTIES
   - font-size,font-weight,font-style,font-family,icons-using_fonts
+### ✅ Level 4 – Practice Set 4
+- PADDING
+- MARGIN
+- BORDER
+  - border property,border-radius,box sizing
 
 
 ---
@@ -41,6 +46,8 @@ css-practice/
 │
 ├── level1/
 ├── level2/
+├── level3/
+├── level4/
 └── (more levels will be added as I progress)
 
 ---
