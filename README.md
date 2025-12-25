@@ -36,7 +36,15 @@ I am organizing my progress level-wise as I learn new concepts.
 - MARGIN
 - BORDER
   - border property,border-radius,box sizing
-
+### ✅ Level 5 – Practice Set 5
+- DISPLAY PROPERTY 
+  - display block , display-inline, display(inline-block), display-none
+- RESPONSIVE WEBSITES
+- RELATIVE UNITS
+  - percentage,EM,REM,viewport-relative-units(VW & VH)
+- POSITION PROPERTY
+  - static-relative-absolute-fixed
+  - Z-index
 
 ---
 
@@ -48,6 +56,7 @@ css-practice/
 ├── level2/
 ├── level3/
 ├── level4/
+├── level5/
 └── (more levels will be added as I progress)
 
 ---
