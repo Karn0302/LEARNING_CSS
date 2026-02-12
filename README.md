@@ -45,6 +45,13 @@ I am organizing my progress level-wise as I learn new concepts.
 - POSITION PROPERTY
   - static-relative-absolute-fixed
   - Z-index
+### ✅ Level 5 – Practice Set 6
+- Float property 
+- FLEXBOX
+  - flexbox direction,justify,flex wrap,align items,align content,align self,align shrink,flex grow,flex order.
+  - grid
+  - media queries
+   - width,min-width,max-width,combination
 
 ---
 
@@ -57,7 +64,7 @@ css-practice/
 ├── level3/
 ├── level4/
 ├── level5/
-└── (more levels will be added as I progress)
+└── level6/
 
 ---
 
